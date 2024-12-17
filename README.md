@@ -2,7 +2,9 @@
 🧑‍💻 I'm currently working at Lalilo 📖.
 
 I love working with numbers—they're like puzzles waiting to be solved, and they hold almost no secrets for me. 
+
 If you need someone to find a needle in a haystack, that’s where I shine!
+
 As an analytics engineer, I can help you make sense of your data, uncover hidden patterns, and turn raw information into valuable insights. 
 
 Whether it’s optimizing processes, predicting trends, or just making sure everything adds up, I’m here to make data work for you—in a way that’s both effective and a bit of fun!
