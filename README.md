@@ -8,18 +8,11 @@ As an analytics engineer, I can help you make sense of your data, uncover hidden
 Whether it’s optimizing processes, predicting trends, or just making sure everything adds up, I’m here to make data work for you—in a way that’s both effective and a bit of fun!
 
 📫 How to reach me:
-<a href="https://www.linkedin.com/in/kng07/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedIn" width="40" height="40"/> </a> <a href="mailto:nguyen.kim0781@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" alt="Mail" width="42" height="42"/> </a> </p>
- 
 
-## About me
-🥊 Boxing enthusiast.
-I love traveling, whether backpacking or hitting the road for a spontaneous adventure.
-I love to paint, draw, and dive into any book I can find.
+[![My linkedin profil](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/kng07/) 
+[![My mail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:nguyen.kim0781@gmail.com) 
 
-🧑‍🍳 Cooking is one of my passions, and I often make enough for ten people, even though there are only four of us! I enjoy experimenting with different flavors, combining sweet and savory, and incorporating cultural influences in the kitchen.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+Languages and Tools : 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a>
@@ -56,12 +49,25 @@ I love to paint, draw, and dive into any book I can find.
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-</p>
+
+
+## About me
+🥊 Boxing Enthusiast : I'm passionate about boxing and proud to serve as the Co-President of my boxing club!
+
+💬 Role and Responsibilities
+- Oversee club operations as a co-president and treasurer.
+- Manage communication channels, including our [Instagram](https://www.instagram.com/boxereventin/) and [Website](https://boxereventin.wordpress.com/).
+- Actively promote the sport and engage with our community to grow the club's presence.
+
+🏝️ I love traveling, whether backpacking or hitting the road for a spontaneous adventure.
+
+🎨 I love to paint, draw, and dive into any book I can find.
+
+🧑‍🍳 Cooking is one of my passions, and I often make enough for ten people, even though there are only four of us! I enjoy experimenting with different flavors, combining sweet and savory, and incorporating cultural influences in the kitchen.
 
 
 ## My GitHub Stats 📊
 <a href="https://github.com/kimLalilo/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kimLalilo&count_private=true&show_icons=true&theme=radical" />
 </a>
-
 
