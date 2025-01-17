@@ -1,4 +1,4 @@
-# I'm a Lead Data/Analytics Engineer and I love to learn about Data or IA in general.
+# I'm a Lead Analytics Engineer and I love to learn about Data or IA in general.
 🧑‍💻 I'm currently working at Lalilo 📖.
 
 I love working with numbers—they're like puzzles waiting to be solved, and they hold almost no secrets for me. 
